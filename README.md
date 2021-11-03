@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shankha-das
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shankha Shubhra Das
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on any open source project
+- 📫 How to reach me shankha_das@persistent.com
 
 <!---
 shankha-das/shankha-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
